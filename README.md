@@ -1,2 +1,1 @@
-# flutter_project1
-Understanding and learning flutter.
+An absolute bare-bones web app.
